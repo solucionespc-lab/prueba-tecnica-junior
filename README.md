@@ -3,6 +3,7 @@
 Repositorio de las pruebas técnicas para el cargo de desarrollador Junior en la empresa Soluciones en epidemiología y salud ocupacional PC
 
 #Pasos a seguir
+
 Con los siguientes requerimientos realiza el desarrollo de la aplicación para Soluciones en epidemiología y salud ocupacional PC:
 
 1. La barra lateral debe tener el logo en la parte superior seguida del nombre abreviado.
