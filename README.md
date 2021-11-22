@@ -2,6 +2,11 @@
 
 Repositorio de las pruebas técnicas para el cargo de desarrollador Junior en la empresa Soluciones en epidemiología y salud ocupacional PC
 
+#Nota importante
+En la prueba técnica no se pueden utilizar librerías de terceros como Bootstrap o tailwind para el diseño.
+La estructura de las carpetas de la aplicación es a criterio propio.
+Estructura del archivo JSON de la API: https://github.com/r-spacex/SpaceX-API/blob/master/docs/landpads/v4/all.md
+
 #Pasos a seguir
 Con los siguientes requerimientos realiza el desarrollo de la aplicación para Soluciones en epidemiología y salud ocupacional PC:
 
@@ -17,8 +22,12 @@ Con los siguientes requerimientos realiza el desarrollo de la aplicación para S
 
 6. Cuando el usuario de clic en el botón entrar de cada uno de los módulos se debe pasar de página hacia una nueva, conservando la barra superior e inferior y en su interior una etiqueta H1 con el nombre del módulo (cualquier campo extra o diseño es a gusto propio).
 
-7. Al dar clic en el avatar (carita) del usuario debe desplegar un menú cercano con algunas configuraciones libres de la aplicación.
+7. Cuando se encuentra dentro de cada módulo debe hacer una petición a la API https://api.spacexdata.com/v4/landpads, y rederizar cada lanzamiento en tarjetas diferentes, cada una de estás tarjetas mostrara la descripción, el nombre y otra información que considere relevante. El diseño sera implementador por el programador.
 
-8. Esta aplicación debe ser Responsive, es decir adaptable a dispositivos móviles.
+8. Cada tarjeta debe tener un vinculo que abrirá en otra pestana del navegador con la información de API en wikipedia.
+
+9. La fuente de toda la aplicación es Montserrat que será descargada desde Google-fonts.
+
+10. Esta aplicación debe ser Responsive, es decir adaptable a dispositivos móviles.
 
 #Gracias por participar en el proceso de selección :D
