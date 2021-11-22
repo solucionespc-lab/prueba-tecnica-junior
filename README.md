@@ -8,6 +8,7 @@ La estructura de las carpetas de la aplicación es a criterio propio.
 Estructura del archivo JSON de la API: https://github.com/r-spacex/SpaceX-API/blob/master/docs/landpads/v4/all.md
 
 #Pasos a seguir
+
 Con los siguientes requerimientos realiza el desarrollo de la aplicación para Soluciones en epidemiología y salud ocupacional PC:
 
 1. La barra lateral debe tener el logo en la parte superior seguida del nombre abreviado.
