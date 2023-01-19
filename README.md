@@ -21,7 +21,8 @@ Con los siguientes requerimientos implementar el desarrollo de la aplicación:
    c. tipo
    d. localidad
    e. lanzamientos
-3. a través de la url "/lanzamientos", se debe enviar solo los lanzamientos realizados por Space X.
-4. Realizar y devolver los datos de las cargas de los lanzamientos realizados por Space X.
+3. A través de la url "/lanzamientos", se debe enviar solo los lanzamientos realizados por Space X.
+4. Realizar y devolver los datos de las cargas de los lanzamientos realizados por Space X
+   https://api.spacexdata.com/v4/payloads
 
 #Gracias por participar en el proceso de selección :D
