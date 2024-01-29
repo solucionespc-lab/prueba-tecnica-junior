@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "vite.config.ts",
+    ".eslintrc.json",
+    "./src/configuraciones/manifest.json",
+    "pwa-assets.config.ts"
+  ]
+}
